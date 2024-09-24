@@ -38,7 +38,7 @@ Please provide a brief explanaiton of how the model/module works. This could inc
 ## How to run the code
 You may want to include a snippet of code that users may need to use to load/run the analysis, or then describe the sequence of steps needed. For example for a model written in R you may provide a list of libraries and scripts to load:
 
-```R
+``` Rscript
 library(tidyverse)
 library(reshape2)
 source('core_model_functions.R')
