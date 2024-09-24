@@ -26,3 +26,5 @@ You may want to use a table to present this information. These are not compulsor
 
 ## How it works
 Please provide a brief explanaiton of how the model/module works. This could include a diagram. 
+
+![diagram](model_example_figure_for_github.png)
