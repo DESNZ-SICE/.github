@@ -23,8 +23,24 @@ You may want to use a table to present this information. These are not compulsor
 |  Data from reference documents |  Average, 2020 and 2015   | Link|
 | Data source 4 |  2024 good data quality   | Link |
 
+## Assumptions
+Provide a list or table of key assumptions underpinning the model or analysis.
+
+| Assumption        | Value/Relationship     | Source|
+| :-----------------| :--------------------: | -----:|
+| e.g. Cooking fuel in homes is electric | No gas meter connection in homes without gas boiler | CODE Methodology Report |
 
 ## How it works
 Please provide a brief explanaiton of how the model/module works. This could include a diagram. 
 
 ![diagram](model_example_figure_for_github.png)
+
+## How to run the code
+You may want to include a snippet of code that users may need to use to load/run the analysis, or then describe the sequence of steps needed. For example for a model written in R you may provide a list of libraries and scripts to load:
+
+> 'library(tidyverse)'
+> 'library(reshape2)'
+> 'source('core_model_functions.R')'
+
+## Outputs
+
