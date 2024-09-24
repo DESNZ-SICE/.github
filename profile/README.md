@@ -9,5 +9,5 @@ We will be developing our own standards for best coding practices, but for now w
 Please contact the SICE knowledge management contact to be added to the repository. 
 
 ## Creating a new repository
-New repositories should be made as appropriate. Please ensure that your work complies with the standards outlined here: 
+New repositories should be made as appropriate. Please ensure that your work complies with the standards outlined here: https://github.com/DESNZ-SICE/.github/tree/main/respository_template
 
